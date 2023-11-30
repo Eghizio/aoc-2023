@@ -1,0 +1,8 @@
+*.js
+node_modules
+*.jar
+.gradle
+.idea
+build
+local
+.DS_Store
